@@ -95,6 +95,8 @@ if ($imagem) {
         <input type="submit" value="Salvar">
     </form>
 
+    <iframe src="https://github.com/sponsors/cwrsiqueira/card" title="Sponsor cwrsiqueira" height="225" width="600" style="border: 0;"></iframe>
+
     <script>
         function previewImage() {
             const imagem = document.querySelector('input[name=imagem]').files[0];
