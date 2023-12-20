@@ -1,5 +1,7 @@
 # Como ver um preview da imagem selecionada no input HTML JS
 
+### Deixa uma estrela no projeto (nesta tela, no canto superior direito). Obrigado!
+
 ## Código do vídeo do youtube
 - https://youtu.be/sYYn-D7Oyqw
 
